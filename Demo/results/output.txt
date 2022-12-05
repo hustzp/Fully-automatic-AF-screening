@@ -1,0 +1,13 @@
+running time: 150.766s
+
+sample level result
+sen: 0.966
+spe: 0.994
+acc: 0.992
+auc: 0.998
+
+patient level result
+sen: 1.000
+spe: 0.972
+acc: 0.978
+auc: 0.998
