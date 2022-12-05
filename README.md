@@ -10,7 +10,7 @@ The folder Demo/data contains the public testing data that were used in the pape
 ## Model
 TThe model used in the paper is a convolutional, long short-term memory, and fully connected deep neural network (CLDNN), the architecture of the model is shown in Figure 1. The model receives an input tensor with dimension (N, 90, 1), and returns an output tensor with dimension (N, 2), for which N is the batch size. The model presented in Demo/code/model.h5 is a trained model and can be directly used to test the data.
 
-![image](https://github.com/hustzp/AF-detection/blob/main/source/Source.png?raw=true)
+![image](https://github.com/hustzp/Fully-automatic-AF-screening/blob/main/Source/Figure%201.png?raw=true)
 
 Figure 1. Architecture of the CLDNN model.
 
