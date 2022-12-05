@@ -19,7 +19,7 @@ Output of the model: shape = (N, 2). The output contains two probabilities of AF
 
 ## Test data
 /data contains testing data of three public datasets that are used in this paper, including AFDB, NSRDB, NSRRRIDB. The python package wfdb can be used to read and process the datasets and obtain the data of ECG signals. The files in AFDB and NSRDB are larger than 25 MB and cannot be uploaded to this website. `For convenience, we also uploaded all the three datasets and the code to the following website.` 
-https://drive.google.com/file/d/18B32eUOyIWOifUr1dqyI6tg_AeonKggF/view?usp=share_link
+https://drive.google.com/file/d/1p2XnklfDVxMjaRDNaJgwztuToPLgwiin/view?usp=sharing
 
 `It is worth noting that the data of the three datasets must be complete before running this demo.`
 
