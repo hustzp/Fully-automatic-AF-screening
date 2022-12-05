@@ -34,7 +34,7 @@ The results of AF detection in “sample-level” and “patient level” are st
 	$ python main.py  
 After running, there will be a output.txt file in the folder Demo/results, as shown in Figure 2.
 
-![image](https://github.com/hustzp/AF-detection/blob/main/source/Figure%202.png?raw=true)  
+![image](https://github.com/hustzp/Fully-automatic-AF-screening/blob/main/Source/Figure%202.png?raw=true)  
 Figure 2. The output of the Demo.
 
 ## License
